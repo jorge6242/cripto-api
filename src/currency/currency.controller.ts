@@ -3,6 +3,7 @@ import { CurrencyService } from './currency.service';
 import { Observable } from 'rxjs';
 import { AxiosResponse } from 'axios';
 import { GetConversionDto } from './dto/get-conversion.dto';
+import { Currency } from './currency.entity';
 
 @Controller('currency')
 export class CurrencyController {

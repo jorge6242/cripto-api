@@ -2,9 +2,6 @@ server:
   port: 3000
 
 db:
-  type: 'mssql'
-  port: 1433
-  database: 'nestjs'
-
-jwt:
-  expiresIn: 3600
+  type: 'postgres'
+  port: 5432
+  database: 'cripto'

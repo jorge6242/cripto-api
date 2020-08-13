@@ -10,6 +10,12 @@
 $ yarn
 ```
 
+## Features
+
+### - Typescript
+### - DTO(Data Transfer Object) to type arguments and validation routes
+### - TypeORM
+
 ## Running the app
 
 ```bash

@@ -10,6 +10,10 @@
 $ yarn
 ```
 
+## Database Credentials
+
+### Path = config/development.yml
+
 ## Features
 
 ### - Typescript
